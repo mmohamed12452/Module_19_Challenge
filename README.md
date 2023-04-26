@@ -6,9 +6,7 @@
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
+
 
 ## Description:
 
@@ -46,5 +44,6 @@ https://github.com/mmohamed12452/Module_19_Challenge
 
 #### Live Link
 
+https://text-editors.onrender.com
 
 
