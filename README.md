@@ -10,7 +10,7 @@
 
 ## Description:
 
-It is an text editor for a progressive web application where users can write their code in the text editor.The text editors functionality is that it will increase with the more codes you write but will decrease as well if you delete several lines of codes.
+It is an text editor for a progressive web application where users can write their code in the text editor. The text editors functionality is that it will increase with the more codes you write but will decrease as well if you delete several lines of codes.
 
 ## Technology:
 
